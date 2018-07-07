@@ -4044,27 +4044,27 @@ None,None,module,Magento_Fedex
 "Gift Messages are not applicable for empty cart","No es posible agregar Mensaje de Regalo al carrito vacío",module,Magento_GiftMessage
 "Gift Messages are not applicable for virtual products","No es posible agregar Mensaje de Regalo a productos virtuales",module,Magento_GiftMessage
 "Gift Message is not available","Mensaje de Regalo no disponible",module,Magento_GiftMessage
-"Could not add gift message to shopping cart","Could not add gift message to shopping cart",module,Magento_GiftMessage
-"There is no item with provided id in the cart","There is no item with provided id in the cart",module,Magento_GiftMessage
-"There is no product with provided  itemId: %1 in the cart","There is no product with provided  itemId: %1 in the cart",module,Magento_GiftMessage
-"There is no item with provided id in the order","There is no item with provided id in the order",module,Magento_GiftMessage
-"There is no item with provided id in the order or gift message isn't allowed","There is no item with provided id in the order or gift message isn't allowed",module,Magento_GiftMessage
-"Could not add gift message to order: ""%1""","Could not add gift message to order: ""%1""",module,Magento_GiftMessage
-"There is no order with provided id or gift message isn't allowed","There is no order with provided id or gift message isn't allowed",module,Magento_GiftMessage
-"There is no order with provided id","There is no order with provided id",module,Magento_GiftMessage
-"Gift Messages are not applicable for empty order","Gift Messages are not applicable for empty order",module,Magento_GiftMessage
-"Could not add gift message to order's item: ""%1""","Could not add gift message to order's item: ""%1""",module,Magento_GiftMessage
+"Could not add gift message to shopping cart","No fue posible agregar mensaje de regalo al carrito",module,Magento_GiftMessage
+"There is no item with provided id in the cart","No hay artículos en el carrito con ese id",module,Magento_GiftMessage
+"There is no product with provided  itemId: %1 in the cart","No hay productos con el itemId: %1 en el carrito",module,Magento_GiftMessage
+"There is no item with provided id in the order","No hay artículos con ese id en el pedido",module,Magento_GiftMessage
+"There is no item with provided id in the order or gift message isn't allowed","No hay artículos con el id en la orden o no se permite mensaje de regalo",module,Magento_GiftMessage
+"Could not add gift message to order: ""%1""","No fue posible agregar mensaje al pedido: ""%1""",module,Magento_GiftMessage
+"There is no order with provided id or gift message isn't allowed","No hay pedido con ese id o el mensaje de regalo no está permitido",module,Magento_GiftMessage
+"There is no order with provided id","No hay pedido con ese id",module,Magento_GiftMessage
+"Gift Messages are not applicable for empty order","Los Mensajes de Regalo no aplicar para pedidos vacíos",module,Magento_GiftMessage
+"Could not add gift message to order's item: ""%1""","No se pudo agregar mensaje de regalo al artículo: ""%1""",module,Magento_GiftMessage
 "Unknown entity type","Unknown entity type",module,Magento_GiftMessage
 "Test label","Test label",module,Magento_GiftMessage
 "Use Config Settings","Use Config Settings",module,Magento_GiftMessage
-From,From,module,Magento_GiftMessage
-To,To,module,Magento_GiftMessage
-Message,Message,module,Magento_GiftMessage
-Cancel,Cancel,module,Magento_GiftMessage
+From,De,module,Magento_GiftMessage
+To,Para,module,Magento_GiftMessage
+Message,Mensaje,module,Magento_GiftMessage
+Cancel,Cancelar|,module,Magento_GiftMessage
 OK,OK,module,Magento_GiftMessage
-"Gift Options","Gift Options",module,Magento_GiftMessage
-"Gift Message","Gift Message",module,Magento_GiftMessage
-"Do you have any gift items in your order?","Do you have any gift items in your order?",module,Magento_GiftMessage
+"Gift Options","Opciones de Regalo",module,Magento_GiftMessage
+"Gift Message","Mensaje de Regalo",module,Magento_GiftMessage
+"Do you have any gift items in your order?","Tienes algún regalo en tu pedido?",module,Magento_GiftMessage
 "Add Gift Options","Add Gift Options",module,Magento_GiftMessage
 "Gift Options for the Entire Order","Gift Options for the Entire Order",module,Magento_GiftMessage
 "Leave this box blank if you don't want to leave a gift message for the entire order.","Leave this box blank if you don't want to leave a gift message for the entire order.",module,Magento_GiftMessage
@@ -4247,16 +4247,16 @@ Never,Never,module,Magento_Indexer
 "Field '%1' not found","Field '%1' not found",module,Magento_Indexer
 "Some Exception Message","Some Exception Message",module,Magento_Indexer
 "Test Phrase","Test Phrase",module,Magento_Indexer
-"Your order number is: %1.","Your order number is: %1.",module,Magento_InstantPurchase
-"Something went wrong while processing your order. Please try again later.","Something went wrong while processing your order. Please try again later.",module,Magento_InstantPurchase
-"Payment method is not defined for instance purchase.","Payment method is not defined for instance purchase.",module,Magento_InstantPurchase
-"Shipping address is not defined for instance purchase.","Shipping address is not defined for instance purchase.",module,Magento_InstantPurchase
-"Billing address is not defined for instance purchase.","Billing address is not defined for instance purchase.",module,Magento_InstantPurchase
-"Shipping method is not defined for instance purchase.","Shipping method is not defined for instance purchase.",module,Magento_InstantPurchase
-"Specified payment method is not available now.","Specified payment method is not available now.",module,Magento_InstantPurchase
-"Specified shipping method is not available.","Specified shipping method is not available.",module,Magento_InstantPurchase
-"Appropriate shipping method is not available.","Appropriate shipping method is not available.",module,Magento_InstantPurchase
-"Cheapest price","Cheapest price",module,Magento_InstantPurchase
+"Your order number is: %1.","Tu número de pedido es: %1.",module,Magento_InstantPurchase
+"Something went wrong while processing your order. Please try again later.","Algo salío mal al procesar tu pedido. Por favor intenta más tarde.",module,Magento_InstantPurchase
+"Payment method is not defined for instance purchase.","No hay método de pago definido para compra inmediata.",module,Magento_InstantPurchase
+"Shipping address is not defined for instance purchase.","No hay dirección de envío definida para compra inmediata.",module,Magento_InstantPurchase
+"Billing address is not defined for instance purchase.","No hay dirección de facturación definida para compra inmediata.",module,Magento_InstantPurchase
+"Shipping method is not defined for instance purchase.","Método de Envío no definido para compra inmediata.",module,Magento_InstantPurchase
+"Specified payment method is not available now.","Método de pago especificado no está disponible por ahora.",module,Magento_InstantPurchase
+"Specified shipping method is not available.","Método de Envío especificado no está disponible por ahora.",module,Magento_InstantPurchase
+"Appropriate shipping method is not available.","No hay un método de envío apropiado disponible.",module,Magento_InstantPurchase
+"Cheapest price","Precio Más Bajo",module,Magento_InstantPurchase
 "Instant purchase integration not available for token.","Instant purchase integration not available for token.",module,Magento_InstantPurchase
 Integrations,Integrations,module,Magento_Integration
 "Add New Integration","Add New Integration",module,Magento_Integration
@@ -4371,15 +4371,15 @@ No,No,module,Magento_LayeredNavigation
 Position,Position,module,Magento_LayeredNavigation
 "Position in Layered Navigation","Position in Layered Navigation",module,Magento_LayeredNavigation
 "Position of attribute in layered navigation block.","Position of attribute in layered navigation block.",module,Magento_LayeredNavigation
-item,item,module,Magento_LayeredNavigation
-items,items,module,Magento_LayeredNavigation
-"Now Shopping by","Now Shopping by",module,Magento_LayeredNavigation
-Previous,Previous,module,Magento_LayeredNavigation
-Remove,Remove,module,Magento_LayeredNavigation
-"Remove This Item","Remove This Item",module,Magento_LayeredNavigation
-"Shop By","Shop By",module,Magento_LayeredNavigation
-"Clear All","Clear All",module,Magento_LayeredNavigation
-"Shopping Options","Shopping Options",module,Magento_LayeredNavigation
+item,artículo,module,Magento_LayeredNavigation
+items,artículos,module,Magento_LayeredNavigation
+"Now Shopping by","Comprando Por",module,Magento_LayeredNavigation
+Previous,Anterior|,module,Magento_LayeredNavigation
+Remove,Eliminar|,module,Magento_LayeredNavigation
+"Remove This Item","Eliminar este artículo",module,Magento_LayeredNavigation
+"Shop By","Comprar Por",module,Magento_LayeredNavigation
+"Clear All","Eliminar Todo",module,Magento_LayeredNavigation
+"Shopping Options","Opciones de Compra",module,Magento_LayeredNavigation
 Partners,Partners,module,Magento_Marketplace
 "Magento Marketplace","Magento Marketplace",module,Magento_Marketplace
 "Platinum Partners","Platinum Partners",module,Magento_Marketplace
@@ -4413,115 +4413,115 @@ Database,Database,module,Magento_MediaStorage
 "File with an extension ""%value%"" is protected and cannot be uploaded","File with an extension ""%value%"" is protected and cannot be uploaded",module,Magento_MediaStorage
 "Unable to create directory: %1","Unable to create directory: %1",module,Magento_MediaStorage
 "Unable to save file: %1","Unable to save file: %1",module,Magento_MediaStorage
-"To see product price, add this item to your cart. You can always remove it later.","To see product price, add this item to your cart. You can always remove it later.",module,Magento_Msrp
-"See price before order confirmation.","See price before order confirmation.",module,Magento_Msrp
+"To see product price, add this item to your cart. You can always remove it later.","Para ver el precio agrega el producto al carrito, Lo puedes eliminar más tarde.",module,Magento_Msrp
+"See price before order confirmation.","Ver precio antes de confirmar el pedido.",module,Magento_Msrp
 "On Gesture","On Gesture",module,Magento_Msrp
-"In Cart","In Cart",module,Magento_Msrp
-"Before Order Confirmation","Before Order Confirmation",module,Magento_Msrp
-"Use config","Use config",module,Magento_Msrp
-"Click for price","Click for price",module,Magento_Msrp
-"What's this?","What's this?",module,Magento_Msrp
-"Order total will be displayed before you submit the order","Order total will be displayed before you submit the order",module,Magento_Msrp
-"You will see the order total before you submit the order.","You will see the order total before you submit the order.",module,Magento_Msrp
-Price,Price,module,Magento_Msrp
-"Actual Price","Actual Price",module,Magento_Msrp
-"Add to Cart","Add to Cart",module,Magento_Msrp
-"Change Billing Address","Change Billing Address",module,Magento_Multishipping
-"Ship to Multiple Addresses","Ship to Multiple Addresses",module,Magento_Multishipping
-"Billing Information - %1","Billing Information - %1",module,Magento_Multishipping
-"Review Order - %1","Review Order - %1",module,Magento_Multishipping
+"In Cart","En Carrito",module,Magento_Msrp
+"Before Order Confirmation","Antes de Confirmar Pedido",module,Magento_Msrp
+"Use config","Usar config",module,Magento_Msrp
+"Click for price","Click para ver Precio",module,Magento_Msrp
+"What's this?","Qué es esto?",module,Magento_Msrp
+"Order total will be displayed before you submit the order","El total del pedido será mostrado antes de solicitar el pedido",module,Magento_Msrp
+"You will see the order total before you submit the order.","Verás el total del pedido antes de solicitar el pedido.",module,Magento_Msrp
+Price,Precio,module,Magento_Msrp
+"Actual Price","Precio Actual",module,Magento_Msrp
+"Add to Cart","Al Carrito",module,Magento_Msrp
+"Change Billing Address","Cambiar Dirección de Envío",module,Magento_Multishipping
+"Ship to Multiple Addresses","Enviar a varias direcciones",module,Magento_Multishipping
+"Billing Information - %1","Información de Facturación - %1",module,Magento_Multishipping
+"Review Order - %1","Revisar Pedido - %1",module,Magento_Multishipping
 Total,Total,module,Magento_Multishipping
-"Total for this address","Total for this address",module,Magento_Multishipping
-"Shipping Methods","Shipping Methods",module,Magento_Multishipping
-"Edit Address","Edit Address",module,Magento_Multishipping
-"Edit Billing Address","Edit Billing Address",module,Magento_Multishipping
-"Edit Shipping Address","Edit Shipping Address",module,Magento_Multishipping
-"Create Billing Address","Create Billing Address",module,Magento_Multishipping
-"Create Shipping Address","Create Shipping Address",module,Magento_Multishipping
-"Data saving problem","Data saving problem",module,Magento_Multishipping
-"We cannot open the overview page.","We cannot open the overview page.",module,Magento_Multishipping
-"Please agree to all Terms and Conditions before placing the order.","Please agree to all Terms and Conditions before placing the order.",module,Magento_Multishipping
-"Order place error","Order place error",module,Magento_Multishipping
-"Maximum qty allowed for Shipping to multiple addresses is %1","Maximum qty allowed for Shipping to multiple addresses is %1",module,Magento_Multishipping
-"Please check shipping address information.","Please check shipping address information.",module,Magento_Multishipping
-"Please check billing address information.","Please check billing address information.",module,Magento_Multishipping
-"Please select shipping methods for all addresses.","Please select shipping methods for all addresses.",module,Magento_Multishipping
-"A payment method is not defined.","A payment method is not defined.",module,Magento_Multishipping
-"The requested payment method is not available for multishipping.","The requested payment method is not available for multishipping.",module,Magento_Multishipping
-"Item not found or already ordered","Item not found or already ordered",module,Magento_Multishipping
-"Please specify a payment method.","Please specify a payment method.",module,Magento_Multishipping
-"Please check shipping addresses information.","Please check shipping addresses information.",module,Magento_Multishipping
-"Please specify shipping methods for all addresses.","Please specify shipping methods for all addresses.",module,Magento_Multishipping
-"Some addresses cannot be used due to country-specific configurations.","Some addresses cannot be used due to country-specific configurations.",module,Magento_Multishipping
+"Total for this address","Total para esta dirección",module,Magento_Multishipping
+"Shipping Methods","Métodos de Envío",module,Magento_Multishipping
+"Edit Address","Editar Dirección",module,Magento_Multishipping
+"Edit Billing Address","Editar Dirección de Facturación",module,Magento_Multishipping
+"Edit Shipping Address","Editar Dirección de Envío",module,Magento_Multishipping
+"Create Billing Address","Crear Dirección de Facturación",module,Magento_Multishipping
+"Create Shipping Address","Crear Dirección de Envío",module,Magento_Multishipping
+"Data saving problem","Problema al guardar datos",module,Magento_Multishipping
+"We cannot open the overview page.","No podemos abrir la página de revision.",module,Magento_Multishipping
+"Please agree to all Terms and Conditions before placing the order.","Por favor acepta los Términos y Condiciones antes de realizar el pedido.",module,Magento_Multishipping
+"Order place error","Error al Realizar Pedido",module,Magento_Multishipping
+"Maximum qty allowed for Shipping to multiple addresses is %1","La cantidad máxima para envíos multiples es %1",module,Magento_Multishipping
+"Please check shipping address information.","Revisa la información de dirección de envío.",module,Magento_Multishipping
+"Please check billing address information.","Revisa la información de dirección de facturación.",module,Magento_Multishipping
+"Please select shipping methods for all addresses.","Por favor selecciona método de envío para todas las direcciones.",module,Magento_Multishipping
+"A payment method is not defined.","No hay método de envío definido.",module,Magento_Multishipping
+"The requested payment method is not available for multishipping.","El Método de Envío solicitado no está disponible para envío multiple.",module,Magento_Multishipping
+"Item not found or already ordered","Artículo no encontrado o ya ha sido pedido",module,Magento_Multishipping
+"Please specify a payment method.","Por favor especifíca un método de pago.",module,Magento_Multishipping
+"Please check shipping addresses information.","Por favor verifíca la información de dirección de envío.",module,Magento_Multishipping
+"Please specify shipping methods for all addresses.","Por favor especifíca métodos de envío para todas las direcciones.",module,Magento_Multishipping
+"Some addresses cannot be used due to country-specific configurations.","Algúnas direcciones no pueden ser usadas por el país donde se encuentran.",module,Magento_Multishipping
 "Quote address for failed order not found.","Quote address for failed order not found.",module,Magento_Multishipping
 "Exception for failed order not found.","Exception for failed order not found.",module,Magento_Multishipping
-"Select Addresses","Select Addresses",module,Magento_Multishipping
-"Shipping Information","Shipping Information",module,Magento_Multishipping
-"Billing Information","Billing Information",module,Magento_Multishipping
-"Place Order","Place Order",module,Magento_Multishipping
-"Order Success","Order Success",module,Magento_Multishipping
-"Order Results","Order Results",module,Magento_Multishipping
-"Default Billing","Default Billing",module,Magento_Multishipping
-"Default Shipping","Default Shipping",module,Magento_Multishipping
-"Select Address","Select Address",module,Magento_Multishipping
-"Add New Address","Add New Address",module,Magento_Multishipping
-"Back to Billing Information","Back to Billing Information",module,Magento_Multishipping
-"Please select a shipping address for applicable items.","Please select a shipping address for applicable items.",module,Magento_Multishipping
-Product,Product,module,Magento_Multishipping
+"Select Addresses","Seleccionar Direcciones",module,Magento_Multishipping
+"Shipping Information","Información de Envío",module,Magento_Multishipping
+"Billing Information","Información de Facturación",module,Magento_Multishipping
+"Place Order","Realizar Pedido",module,Magento_Multishipping
+"Order Success","Pedido Exitoso",module,Magento_Multishipping
+"Order Results","Resultado del Pedido",module,Magento_Multishipping
+"Default Billing","Cobro Preferido",module,Magento_Multishipping
+"Default Shipping","Envío Preferido",module,Magento_Multishipping
+"Select Address","Seleccionar Dirección",module,Magento_Multishipping
+"Add New Address","Agregar Nueva Dirección",module,Magento_Multishipping
+"Back to Billing Information","Regresar a Información de Facturación",module,Magento_Multishipping
+"Please select a shipping address for applicable items.","Por favor selecciona una dirección de envío para los artículos aplicables.",module,Magento_Multishipping
+Product,Producto,module,Magento_Multishipping
 Qty,Qty,module,Magento_Multishipping
-"Send To","Send To",module,Magento_Multishipping
-"A shipping selection is not applicable.","A shipping selection is not applicable.",module,Magento_Multishipping
+"Send To","Enviar a",module,Magento_Multishipping
+"A shipping selection is not applicable.","No aplica selección de envío.",module,Magento_Multishipping
 Actions,Actions,module,Magento_Multishipping
-"Remove Item","Remove Item",module,Magento_Multishipping
-"Remove item","Remove item",module,Magento_Multishipping
-"Go to Shipping Information","Go to Shipping Information",module,Magento_Multishipping
+"Remove Item","Eliminar Artículo",module,Magento_Multishipping
+"Remove item","Eliminar Artículo",module,Magento_Multishipping
+"Go to Shipping Information","Ir a Información de Envío",module,Magento_Multishipping
 "Update Qty &amp; Addresses","Update Qty &amp; Addresses",module,Magento_Multishipping
-"Enter a New Address","Enter a New Address",module,Magento_Multishipping
-"Back to Shopping Cart","Back to Shopping Cart",module,Magento_Multishipping
+"Enter a New Address","Ingresar Nueva Dirección",module,Magento_Multishipping
+"Back to Shopping Cart","Regresar al Carrito",module,Magento_Multishipping
 Loading...,Loading...,module,Magento_Multishipping
-"Billing Address","Billing Address",module,Magento_Multishipping
-Change,Change,module,Magento_Multishipping
-"Payment Method","Payment Method",module,Magento_Multishipping
-"Go to Review Your Order","Go to Review Your Order",module,Magento_Multishipping
-"Back to Shipping Information","Back to Shipping Information",module,Magento_Multishipping
-"Other items in your order","Other items in your order",module,Magento_Multishipping
-"Edit Items","Edit Items",module,Magento_Multishipping
-"Shipping is not applicable.","Shipping is not applicable.",module,Magento_Multishipping
+"Billing Address","Dirección de Facturación",module,Magento_Multishipping
+Change,Cambiar,module,Magento_Multishipping
+"Payment Method","Método de Pago",module,Magento_Multishipping
+"Go to Review Your Order","Ir a Revisar Pedido",module,Magento_Multishipping
+"Back to Shipping Information","Regresar a Información de Envío",module,Magento_Multishipping
+"Other items in your order","Otros artículos en tu pedido",module,Magento_Multishipping
+"Edit Items","Editar Artículos",module,Magento_Multishipping
+"Shipping is not applicable.","Envío no aplica.",module,Magento_Multishipping
 "Product Name","Product Name",module,Magento_Multishipping
-"Check Out with Multiple Addresses","Check Out with Multiple Addresses",module,Magento_Multishipping
-"Please see","Please see",module,Magento_Multishipping
-"details below","details below",module,Magento_Multishipping
-Address,Address,module,Magento_Multishipping
-of,of,module,Magento_Multishipping
-"Shipping To","Shipping To",module,Magento_Multishipping
-"Shipping Method","Shipping Method",module,Magento_Multishipping
-"Incl. Tax","Incl. Tax",module,Magento_Multishipping
-"Excl. Tax","Excl. Tax",module,Magento_Multishipping
-"Order Review","Order Review",module,Magento_Multishipping
-Item,Item,module,Magento_Multishipping
-Edit,Edit,module,Magento_Multishipping
-Price,Price,module,Magento_Multishipping
+"Check Out with Multiple Addresses","Check Out con Direcciones Múltiples",module,Magento_Multishipping
+"Please see","Por favor ve",module,Magento_Multishipping
+"details below","detalles debajo",module,Magento_Multishipping
+Address,Direcciones,module,Magento_Multishipping
+of,de,module,Magento_Multishipping
+"Shipping To","Enviar A",module,Magento_Multishipping
+"Shipping Method","Método de Envío",module,Magento_Multishipping
+"Incl. Tax","Con IVA",module,Magento_Multishipping
+"Excl. Tax","Más IVA",module,Magento_Multishipping
+"Order Review","Revisar Pedido",module,Magento_Multishipping
+Item,Artículo,module,Magento_Multishipping
+Edit,Editar,module,Magento_Multishipping
+Price,Precio,module,Magento_Multishipping
 Subtotal,Subtotal,module,Magento_Multishipping
-Items,Items,module,Magento_Multishipping
+Items,Artículos,module,Magento_Multishipping
 "Grand Total:","Grand Total:",module,Magento_Multishipping
-"Submitting order information...","Submitting order information...",module,Magento_Multishipping
-"Not all items were included.","Not all items were included.",module,Magento_Multishipping
-"For details, see","For details, see",module,Magento_Multishipping
-"Failed to Order","Failed to Order",module,Magento_Multishipping
-"section below","section below",module,Magento_Multishipping
-"For successfully ordered items, you'll receive a confirmation email including order numbers, tracking information, and more details.","For successfully ordered items, you'll receive a confirmation email including order numbers, tracking information, and more details.",module,Magento_Multishipping
-"Successfully Ordered","Successfully Ordered",module,Magento_Multishipping
-"No shipping required.","No shipping required.",module,Magento_Multishipping
-"To purchase these items: Return to the","To purchase these items: Return to the",module,Magento_Multishipping
-"Review page in Checkout","Review page in Checkout",module,Magento_Multishipping
-"resolve any errors, and place a new order.","resolve any errors, and place a new order.",module,Magento_Multishipping
-"Address %1 <span>of %2</span>","Address %1 <span>of %2</span>",module,Magento_Multishipping
-"Sorry, no quotes are available for this order right now.","Sorry, no quotes are available for this order right now.",module,Magento_Multishipping
-"Continue to Billing Information","Continue to Billing Information",module,Magento_Multishipping
-"Back to Select Addresses","Back to Select Addresses",module,Magento_Multishipping
-"For successfully order items, you'll receive a confirmation email including order numbers, tracking information and more details.","For successfully order items, you'll receive a confirmation email including order numbers, tracking information and more details.",module,Magento_Multishipping
-"Successfully ordered","Successfully ordered",module,Magento_Multishipping
-"Continue Shopping","Continue Shopping",module,Magento_Multishipping
+"Submitting order information...","Enviando Información de Pedido...",module,Magento_Multishipping
+"Not all items were included.","No se incluyeron todos los artículos.",module,Magento_Multishipping
+"For details, see","Más detalles, ver|",module,Magento_Multishipping
+"Failed to Order","Error al Ordenar",module,Magento_Multishipping
+"section below","seccion debajo",module,Magento_Multishipping
+"For successfully ordered items, you'll receive a confirmation email including order numbers, tracking information, and more details.","Recibirás un email de confirmación por los artículos ordenados exitosamente con información de rastreo, order id, y más detalles.",module,Magento_Multishipping
+"Successfully Ordered","Pedido Exitoso",module,Magento_Multishipping
+"No shipping required.","No se requiere envío.",module,Magento_Multishipping
+"To purchase these items: Return to the","Para comprar estos artículos: Regresa a",module,Magento_Multishipping
+"Review page in Checkout","Revisar página en Checkout",module,Magento_Multishipping
+"resolve any errors, and place a new order.","resuelve los errores, y realiza un nuevo pedido.",module,Magento_Multishipping
+"Address %1 <span>of %2</span>","Dirección %1 <span>de %2</span>",module,Magento_Multishipping
+"Sorry, no quotes are available for this order right now.","Disculpános, no hay cotización disponible para este pedido por ahora.",module,Magento_Multishipping
+"Continue to Billing Information","Continuar a Información de Facturación",module,Magento_Multishipping
+"Back to Select Addresses","Regresar a Seleccionar Direcciones",module,Magento_Multishipping
+"For successfully order items, you'll receive a confirmation email including order numbers, tracking information and more details.","Recibirás un email de confirmación por los artículos ordenados exitosamente con información de rastreo, order id, y más detalles.",module,Magento_Multishipping
+"Successfully ordered","Pedido Exitoso",module,Magento_Multishipping
+"Continue Shopping","Continuar Comprando",module,Magento_Multishipping
 "No New Relic Application ID configured, cannot continue with Cron Event reporting","No New Relic Application ID configured, cannot continue with Cron Event reporting",module,Magento_NewRelicReporting
 "The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
                         information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
