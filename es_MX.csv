@@ -4043,7 +4043,7 @@ status,status,module,Magento_Fedex
 None,None,module,Magento_Fedex
 "Gift Messages are not applicable for empty cart","No es posible agregar Mensaje de Regalo al carrito vacío",module,Magento_GiftMessage
 "Gift Messages are not applicable for virtual products","No es posible agregar Mensaje de Regalo a productos virtuales",module,Magento_GiftMessage
-"Gift Message is not available","Gift Message is not available",module,Magento_GiftMessage
+"Gift Message is not available","Mensaje de Regalo no disponible",module,Magento_GiftMessage
 "Could not add gift message to shopping cart","Could not add gift message to shopping cart",module,Magento_GiftMessage
 "There is no item with provided id in the cart","There is no item with provided id in the cart",module,Magento_GiftMessage
 "There is no product with provided  itemId: %1 in the cart","There is no product with provided  itemId: %1 in the cart",module,Magento_GiftMessage
