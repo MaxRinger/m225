@@ -4836,7 +4836,7 @@ Dynamic,Dynamic,module,Magento_Paypal
 Static,Static,module,Magento_Paypal
 Shortcut,Shortcut,module,Magento_Paypal
 "Acceptance Mark Image","Acceptance Mark Image",module,Magento_Paypal
-Authorization,Authorización,module,Magento_Paypal
+Authorization,Autorización,module,Magento_Paypal
 Sale,Venta,module,Magento_Paypal
 Yes,Si,module,Magento_Paypal
 No,No,module,Magento_Paypal
